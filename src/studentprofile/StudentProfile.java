@@ -15,6 +15,8 @@ public class StudentProfile {
         System.out.println("Name: Muhammad Danish Aiman bin Nasir");                      // display the your name
         System.out.println("Student ID: S87581");                                          // display student ID
         System.out.println("Programme: Bachelor of Computer Science (Software Engineering)");  // display programme
+        System.out.println("Semester: Semester 1");                                            // display semester
+        System.out.println("Favourite Language: Java");                                        // display language
     }
     
 } // Program ends
